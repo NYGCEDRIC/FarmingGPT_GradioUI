@@ -1,0 +1,8 @@
+gradio
+transformers
+gtts
+speechrecognition
+markupsafe>=2.0.1
+fastapi
+jinja2
+starlette
